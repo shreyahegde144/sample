@@ -1,1 +1,1 @@
-# GQT-Java-Training-
+# GQT-Java-Training
